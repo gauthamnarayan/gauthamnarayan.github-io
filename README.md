@@ -1,3 +1,3 @@
-Website hosted at gauthamnarayan.github.io
+Website hosted at https://gauthamnarayan.github.io
 
-Source code borrowed from: https://jonbarron.info/.
+Source code borrowed from: https://jonbarron.in/
